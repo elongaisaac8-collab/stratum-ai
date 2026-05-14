@@ -1,6 +1,0 @@
-stratum-ai/
-├── app.py              # Le cœur du SaaS
-├── requirements.txt    # Les dépendances
-├── .streamlit/
-│   └── secrets.toml    # Tes clés secrètes (ne jamais partager)
-└── README.md           # Instructions
